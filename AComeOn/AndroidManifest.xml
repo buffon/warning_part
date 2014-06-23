@@ -21,6 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".SettingActivity"/>
+        <activity android:name=".PressActivity"/>
     </application>
 
     <uses-permission android:name="android.permission.INTERNET"/>
